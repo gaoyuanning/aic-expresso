@@ -1,0 +1,2 @@
+negationHasLessNumberOfDisjuncts(F) - ([implementation](http://code.google.com/p/aic-expresso/source/browse/trunk/src/main/java/com/sri/ai/grinder/library/equality/cardinality/direct/core/Cardinality.java))<br>
+| <code>return </code><a href='FunctionWorstCaseNumberOfDisjuncts.md'>worstCaseNumberOfDisjuncts</a><code>(F) &gt; </code><a href='FunctionWorstCaseNumberOfDisjuncts.md'>worstCaseNumberOfDisjuncts</a><code>(not F)</code>
